@@ -1,0 +1,19 @@
+doc/source/serve/doc_code/autoscaling_policy.py
+  s_404c152c7061b5::t_3fc4ff25b35c90 2-3,9-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "12ab4a13e19c4b33ee2916d9281a682e4f05cd25",
+  "prompts": {},
+  "sessions": {
+    "s_404c152c7061b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a103d34e-eef0-42d3-a746-5319c2a33414",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "michaelloewenstein <mizimizi@gmail.com>"
+    }
+  }
+}
